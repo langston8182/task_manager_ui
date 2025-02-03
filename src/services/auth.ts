@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 
-export const COGNITO_URL = 'https://eu-west-3tombzuhsn.auth.eu-west-3.amazoncognito.com';
+export const COGNITO_URL = 'https://auth.cyrilmarchive.com';
 export const CLIENT_ID = '1hg85eeoni6k1q6lg5sf61tnh4';
 export const REDIRECT_URI = 'https://taskui.cyrilmarchive.com';
 

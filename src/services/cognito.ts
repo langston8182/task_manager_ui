@@ -1,6 +1,6 @@
 import { useAuthStore } from './auth';
 
-const TOKEN_ENDPOINT = 'https://eu-west-3tombzuhsn.auth.eu-west-3.amazoncognito.com/oauth2/token';
+const TOKEN_ENDPOINT = 'https://auth.cyrilmarchive.com/oauth2/token';
 const CLIENT_ID = '1hg85eeoni6k1q6lg5sf61tnh4';
 const REDIRECT_URI = 'https://taskui.cyrilmarchive.com';
 const CLIENT_SECRET = 'i0muoh8cqcov2mdd51q6j1sb1dd6crn6aapts6ltdhe273mt2v7';
